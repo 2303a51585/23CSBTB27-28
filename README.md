@@ -11,6 +11,6 @@ https://github.com/2303a51585/23CSBTB27-28/blob/main/Implement_AI_Game_Strategy(
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Housing(Lab3).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Housing(Lab3).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/titanic_train%26titanic_test(Lab4).ipynb
-
+https://github.com/2303a51585/23CSBTB27-28/blob/main/Classified_Data(Lab5).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/fetch_california_housing(Lab6).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/SVM(Lab7).ipynb
