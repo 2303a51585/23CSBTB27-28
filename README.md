@@ -10,3 +10,4 @@ https://github.com/2303a51585/23CSBTB27-28/blob/main/BFS%2CA_STAR_ALOGORTIHM_AND
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Implement_AI_Game_Strategy(Lab2).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Housing(Lab3).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Housing(Lab3).ipynb
+https://github.com/2303a51585/23CSBTB27-28/blob/main/titanic_train%26titanic_test(Lab4).ipynb
