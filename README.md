@@ -4,3 +4,4 @@ https://github.com/2303a51585/23CSBTB27-28/blob/main/Array_Index.ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Array_dtype.ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Array_shape.ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Array_Iteration.ipynb
+https://github.com/2303a51585/23CSBTB27-28/blob/main/list.ipynb
