@@ -15,3 +15,4 @@ https://github.com/2303a51585/23CSBTB27-28/blob/main/Classified_Data(Lab5).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/fetch_california_housing(Lab6).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/SVM(Lab7).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Decision_Tree(Lab8).ipynb
+https://github.com/2303a51585/23CSBTB27-28/blob/main/Exam(Lab).ipynb
