@@ -16,3 +16,4 @@ https://github.com/2303a51585/23CSBTB27-28/blob/main/fetch_california_housing(La
 https://github.com/2303a51585/23CSBTB27-28/blob/main/SVM(Lab7).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Decision_Tree(Lab8).ipynb
 https://github.com/2303a51585/23CSBTB27-28/blob/main/Exam(Lab).ipynb
+https://github.com/2303a51585/23CSBTB27-28/blob/main/RL(Lab2).ipynb
